@@ -323,8 +323,8 @@ hori:AddButton("Dildo",function()
 ⬛⬛⬛⬛⬛⬛]])
 end)
 
-hori:AddButton("Fuck",function()
-	NBox:Set(game:HttpGet("https://raw.githubusercontent.com/synolope/meepcracked/main/art/f.txt"))
+hori:AddButton("Among Us",function()
+	NBox:Set(game:HttpGet("https://raw.githubusercontent.com/synolope/meepcracked/main/art/a.txt"))
 end)
 
 MMain:AddButton("Toggle Meep",function()
